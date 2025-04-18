@@ -11,6 +11,7 @@ The Titanic dataset is one of the most well-known datasets in the data science c
 4. Identify potential insights that can influence survival chances.
 
 **EDA Process**
+
 A. Initial Exploration:
   1. Displayed the dataset using .head(), .tail(), and .sample().
   2. Used .info() to get data types and null counts.
