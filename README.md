@@ -44,7 +44,7 @@ D. Missing Values:
 📫 Feel free to connect or reach out if you have suggestions, feedback, or want to collaborate:
 
 📧 helenpatricia061006@gmail.com
-🔗 linkedin.com/in/helenptrcia
+🔗 www.linkedin.com/in/helenptrcia
 
 #Python
 #EDA
