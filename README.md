@@ -10,7 +10,6 @@ The Titanic dataset is one of the most well-known datasets in the data science c
 3. Detect and handle duplicate entries and missing values.
 4. Identify potential insights that can influence survival chances.
 
-
 **EDA Process**
 
 A. Initial Exploration:
@@ -30,20 +29,17 @@ D. Missing Values:
   1. Column age has 49 missing values (~9.8% of the dataset).
   2. Potential handling methods: mean/median imputation, or grouping by sex or survived.
 
-
 **Insights**
 1. A majority of the passengers in this sample survived.
 2. Most passengers are male, but survival may vary based on gender and age.
 3. The name field contains titles (Mr., Miss, etc.) which can be useful for further feature engineering.
 4. Age distribution is quite wide, ranging from infants to elderly, which can affect survival chances.
 
-
 **Advice for Future Work**
 1. Extract titles from the name column to create a new categorical feature.
 2. Use grouping (e.g., by sex, title) to impute missing age values more accurately.
 3. Build visualizations such as survival rates by gender and age to strengthen the analysis.
 4. This dataset is great for training simple classification models—logistic regression, decision trees, etc.
-
 
 📫 Feel free to connect or reach out if you have suggestions, feedback, or want to collaborate:
 📧 helenpatricia061006@gmail.com
